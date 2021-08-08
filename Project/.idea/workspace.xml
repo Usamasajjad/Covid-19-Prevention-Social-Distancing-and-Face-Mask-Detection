@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd045c61-08f1-4f10-979b-a5e15047373f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="ed25bff0-a4d5-493d-886f-ed0a028b8ac2" />
+  <component name="ProjectId" id="1rg01iXcu6ClfYJAkxPOfwjOGJY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd045c61-08f1-4f10-979b-a5e15047373f" name="Default Changelist" comment="" />
+      <created>1619382212144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619382212144</updated>
+      <workItem from="1619382213481" duration="867000" />
+      <workItem from="1619383489401" duration="63000" />
+      <workItem from="1619387175712" duration="662000" />
+      <workItem from="1619389715246" duration="184000" />
+      <workItem from="1622706967299" duration="1963000" />
+      <workItem from="1625888059129" duration="2193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="312" key="FileChooserDialogImpl" timestamp="1619389896197">
+      <screen x="60" y="30" width="1860" height="1050" />
+    </state>
+    <state x="715" y="312" key="FileChooserDialogImpl/60.30.1860.1050@60.30.1860.1050" timestamp="1619389896197" />
+    <state width="1772" height="265" key="GridCell.Tab.0.bottom" timestamp="1619387189932">
+      <screen x="60" y="30" width="1860" height="1050" />
+    </state>
+    <state width="1772" height="265" key="GridCell.Tab.0.bottom/60.30.1860.1050@60.30.1860.1050" timestamp="1619387189932" />
+    <state width="1772" height="265" key="GridCell.Tab.0.center" timestamp="1619387189932">
+      <screen x="60" y="30" width="1860" height="1050" />
+    </state>
+    <state width="1772" height="265" key="GridCell.Tab.0.center/60.30.1860.1050@60.30.1860.1050" timestamp="1619387189932" />
+    <state width="1772" height="265" key="GridCell.Tab.0.left" timestamp="1619387189931">
+      <screen x="60" y="30" width="1860" height="1050" />
+    </state>
+    <state width="1772" height="265" key="GridCell.Tab.0.left/60.30.1860.1050@60.30.1860.1050" timestamp="1619387189931" />
+    <state width="1772" height="265" key="GridCell.Tab.0.right" timestamp="1619387189932">
+      <screen x="60" y="30" width="1860" height="1050" />
+    </state>
+    <state width="1772" height="265" key="GridCell.Tab.0.right/60.30.1860.1050@60.30.1860.1050" timestamp="1619387189932" />
+  </component>
+</project>
